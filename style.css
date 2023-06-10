@@ -1,0 +1,40 @@
+#p{ 
+    width: 400px;
+    height: 400px;
+    /* background-color:palegoldenrod; */
+    margin: auto;
+    margin-top: 100px;
+    position: relative;
+}
+.x{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+.a{
+    background-color: red;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.b{
+    background-color: aqua;
+    bottom: 0px;
+    left: 0px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.c{
+    background-color: blue;
+    bottom: 0px;
+    right: 0px;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+
+}
+.d{
+    background-color: chartreuse;
+    top: 0px;
+    right: 0px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
